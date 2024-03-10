@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 test text
 gfsdg
 fd
