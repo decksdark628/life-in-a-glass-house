@@ -16,4 +16,5 @@ Anyway, here's some stuff you can do:
 - 🎲 [[Fortnite 2|My D&D campaign]] 
 ### Tutorials and guides
 - 🎮 [[Where to download games]] 
-
+### Try this out
+- [Pikachu Volleyball|Play Pikachu Volleyball](https://gorisanson.github.io/pikachu-volleyball/en/)
