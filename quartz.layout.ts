@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "Website": "https://decksdark628.github.io/life-in-a-glass-house/",
+ //   "Quartz website": "https://decksdark628.github.io/life-in-a-glass-house/",
       "Youtube": "https://www.youtube.com/@decksdark",
     },
   }),

@@ -1,5 +1,5 @@
 ---
-title: Life in a Glass House
+title: Home
 aliases:
   - Home
 ---
