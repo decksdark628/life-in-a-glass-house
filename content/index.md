@@ -1,11 +1,9 @@
 ---
-title: Home
+title: 🏠 Home
 aliases:
   - Home
 ---
-Welcome! This is the first version of my website. Here I'll post a variety of stuff I'm working on, some tutorials or other random stuff I feel like sharing.
-
-I may also never update this again. Who knows ¯\\\_(ツ)\_/¯
+Welcome! This is the first version of my website. Here I'll post a variety of stuff I'm working on, some tutorials or other random stuff I feel like sharing. I may also never update this again. Who knows ¯\\\_(ツ)\_/¯
 
 Anyway, here's some stuff you can do:
 ### Check what I'm doing
@@ -17,4 +15,4 @@ Anyway, here's some stuff you can do:
 ### Tutorials and guides
 - 🎮 [[Where to download games]] 
 ### Try this out
-- [Pikachu Volleyball|Play Pikachu Volleyball](https://gorisanson.github.io/pikachu-volleyball/en/)
+- [Play Pikachu Volleyball](https://gorisanson.github.io/pikachu-volleyball/en/)
