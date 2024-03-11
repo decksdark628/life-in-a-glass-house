@@ -1,2 +1,2 @@
-- [[Fortnite 2 - Cronología]]
-- [[Fortnite 2 - Fichas]]
+- [[Fortnite 2 - Cronología|Linea de Tiempo]]
+- [[Fortnite 2 - Fichas|Fichas de Personaje]]

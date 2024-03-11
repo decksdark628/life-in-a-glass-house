@@ -1,3 +1,9 @@
+---
+title: Linea de Tiempo - Fortnite 2
+tags:
+  - Español
+---
+
 #### 2024 - 14 de Enero
 - Edward se infiltra en la guarida de una banda criminal, los neutraliza y roba suministros para apoyar a la comuna
 - Lily despierta y pasa tiempo con Edward en la comuna

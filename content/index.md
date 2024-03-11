@@ -3,9 +3,17 @@ title: Home
 aliases:
   - Home
 ---
-This is my website. Currently WIP
+Welcome! This is the first version of my website. Here I'll post a variety of stuff I'm working on, some tutorials or other random stuff I feel like sharing.
 
-- [[Cooking]]
-- [[Fortnite 2]]
-- [[Where to download games]]
-- [[test note]]
+I may also never update this again. Who knows ¯\\\_(ツ)\_/¯
+
+Anyway, here's some stuff you can do:
+### Check what I'm doing
+- 🍳 [[My cooking|Things I cooked recently]]
+- 🦆 [[Ducks|My duck drawings]] 
+- 🎨 [[Drawings|My other drawings]] 
+### Read about
+- 🎲 [[Fortnite 2|My D&D campaign]] 
+### Tutorials and guides
+- 🎮 [[Where to download games]] 
+

@@ -1,3 +1,9 @@
+---
+title: Donde descargar juegos
+tags:
+  - Español
+---
+
 ### Recomendaciones
 - **Adblock:** [Ublock origin](https://ublockorigin.com/)
 - **Torrent client:** [qBittorrent](https://www.fosshub.com/qBittorrent.html)

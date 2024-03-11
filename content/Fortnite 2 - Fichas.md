@@ -1,7 +1,13 @@
+---
+title: Fichas de Personaje - Fortnite 2
+tags:
+  - Español
+---
+
 # Fichas
-[TOC2]
+
 ## Edward
-->![Edward](https://i.imgur.com/ZY7FUmt.png)<-
+![Edward](https://i.imgur.com/ZY7FUmt.png)
 ##### Atributos
 | Resistencia | Salud | Habilidad |
 | :---------: | :---: | --------- |
@@ -20,7 +26,7 @@ Fue | Con | Des | Sab | Int | Car
 
 ---
 ## Fausto
-->![Fausto](https://i.imgur.com/EVSp1es.png)<-
+![Fausto](https://i.imgur.com/EVSp1es.png)
 ##### Atributos
 | Resistencia | Salud | Habilidad |
 | :---------: | :---: | --------- |
@@ -35,7 +41,7 @@ Fue | Con | Des | Sab | Int | Car
 
 ---
 ## Hideo
-->![Hideo](https://i.imgur.com/BANw51o.png)<-
+![Hideo](https://i.imgur.com/BANw51o.png)
 ##### Atributos
 | Resistencia | Salud | Habilidad |
 | :---------: | :---: | --------- |
@@ -56,7 +62,7 @@ Fue | Con | Des | Sab | Int | Car
 
 ---
 ## Jack
-->![Jack](https://i.imgur.com/ryyLzG0.png)<-
+![Jack](https://i.imgur.com/ryyLzG0.png)
 ##### Atributos
 | Resistencia | Salud | Habilidad |
 | :---------: | :---: | --------- |

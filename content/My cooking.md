@@ -1,6 +1,9 @@
-Welcome! Here I'll post pics of whatever I cook that I happen to photograph. I may include descriptions or other information. I may also never update this again. Who knows ¯\\\_(ツ)\_/¯
+---
+title: My cooking
+tags:
+  - English
+---
 
-Anyway, here's some stuff I've made
 ## 2024
 ### ~~Chocolate cake~~ Brownies with crema pastelera
 Originally a [heavy-pan cake recipe](https://www.youtube.com/watch?v=Ru2NffZ9WRU) that [didn't go as expected](https://i.imgur.com/kzeTkAP.jpeg). Tried to salvage it by cutting it into small bites.
