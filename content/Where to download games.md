@@ -2,6 +2,7 @@
 title: Donde descargar juegos
 tags:
   - Español
+enableToc: "false"
 ---
 
 ### Recomendaciones
