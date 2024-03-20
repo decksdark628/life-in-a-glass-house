@@ -18,10 +18,11 @@ Fue | Con | Des | Sab | Int | Car
 +5 | +3 | +2 | +2 | +0 | + 1
 
 ##### Objetos / Poderes
-- Vigor de batalla
-- **Boxeador:** Ataque desarmado = 1d4 + FUE
-- **Ráfaga:** añade 1d4 daño a tu ataque desarmado (2 x día)
-- **Golpe bajo:** Acierto automático. + 1d12 daño (1 x día)
+- [ ] Vigor de batalla
+- [ ] **Boxeador:** Ataque desarmado = 1d4 + FUE
+- [ ] **Ráfaga:** añade 1d4 daño a tu ataque desarmado (2 x día)
+- [ ] **Golpe bajo:** Acierto automático. + 1d12 daño (1 x día)
+- [x] **Dropkick:** 
 
 
 ---
