@@ -2,6 +2,8 @@
 title: Linea de Tiempo - Fortnite 2
 tags:
   - Español
+aliases:
+  - Linea de tiempo - Linea de Tiempo
 ---
 
 #### 2024 - 14 de Enero

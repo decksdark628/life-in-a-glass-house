@@ -9,9 +9,9 @@ Welcome! This is the first version of my website. Here I'll post a variety of st
 Anyway, here's some stuff you can do:
 ### Check what I'm doing
 - 🍳 [[My cooking|Things I cooked recently]]
-- 💲 [[Vendo cosas|Things I'm selling]]
-- 🦆 [[Ducks|My duck drawings]] 
-- 🎨 [[Drawings|My other drawings]] 
+- 🦆 [[Ducks|My duck drawings]]
+- 💲   [[Vendo cosas|Things I'm selling]]
+%%- 🎨 [[Drawings|My other drawings]] %%
 ### Read about
 - 🎲 [[Fortnite 2|My D&D campaign]] 
 ### Tutorials and guides

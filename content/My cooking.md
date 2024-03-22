@@ -5,6 +5,8 @@ tags:
 ---
 
 ## 2024
+### Alverjita partida
+![Alverjita partida](https://imgur.com/Z9CzYGW.jpeg)
 ### ~~Chocolate cake~~ Brownies with crema pastelera
 Originally a [heavy-pan cake recipe](https://www.youtube.com/watch?v=Ru2NffZ9WRU) that [didn't go as expected](https://i.imgur.com/kzeTkAP.jpeg). Tried to salvage it by cutting it into small bites.
 - **Ingredients:** Flour, butter, sugar, colacao, a dash of milk, crema pastelera.
